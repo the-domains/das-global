@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What do we do?
-datePublished: '2015-12-22T12:34:45.329Z'
-dateModified: '2015-12-22T12:32:55.281Z'
+datePublished: '2015-12-22T12:40:46.589Z'
+dateModified: '2015-12-22T12:40:31.678Z'
 title: Our Services
 author: []
 sourcePath: _posts/2015-12-22-our-services.md
@@ -23,9 +23,9 @@ _type: Article
 
 ---
 WHAT WE DO?
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/408fd1545df3621ca458f6bd8877bc9416e81917.png)
 
-##### INDUSTRIES
+##### **INDUSTRIES**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/408fd1545df3621ca458f6bd8877bc9416e81917.png)
 
 * Healthcare 
 * Automotive 
@@ -34,9 +34,9 @@ WHAT WE DO?
 * Tourism 
 * Aviation 
 * E-Learning
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf8d2ae-096b-4ac7-b371-e9d7daaebbdb.jpg)
 
-##### C-O-E
+##### **Center-Of-Excellence**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf8d2ae-096b-4ac7-b371-e9d7daaebbdb.jpg)
 
 * EMR/EHR 
 * ICD 9-10 
@@ -51,9 +51,9 @@ WHAT WE DO?
 * Business Intelligence
 * Mobile Application
 
-##### ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f83c151-8a53-4deb-8af6-c8d2bdda92bf.png)
+##### **TECHNOLOGIES**
 
-##### TECHNOLOGIES
+##### ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f83c151-8a53-4deb-8af6-c8d2bdda92bf.png)
 
 * iOS 
 * Android 
