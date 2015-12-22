@@ -4,7 +4,7 @@
         <description><![CDATA[DAS GLOBAL]]></description>
         <link>http://das-global.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 12:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 12:53:41 GMT</lastBuildDate>
         <atom:link href="http://das-global.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Tue, 22 Dec 2015 12:45:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Our Services]]></title>
-            <description><![CDATA[<article><h1>Our Services</h1><p>What do we do?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e761e24a3ca119c8cae9c0d46ca5f11ab6976f8.png"></article>]]></description>
+            <title><![CDATA[WHAT WE DO?]]></title>
+            <description><![CDATA[<article><h1>WHAT WE DO?</h1><p>What do we do?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e761e24a3ca119c8cae9c0d46ca5f11ab6976f8.png"></article>]]></description>
             <link>http://das-global.com/our-services/index.html</link>
             <guid isPermaLink="false">cd80cd92-57c9-4a6a-a479-f966823df1eb</guid>
-            <pubDate>Tue, 22 Dec 2015 12:45:36 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 12:53:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
