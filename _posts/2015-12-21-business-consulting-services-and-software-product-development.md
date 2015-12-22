@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T19:21:40.017Z'
-dateModified: '2015-12-21T19:21:14.952Z'
-title: "BUSINESS CONSULTING SERVICES &\_SOFTWARE PRODUCT DEVELOPMENT PARTNER"
+datePublished: '2015-12-22T12:34:20.411Z'
+dateModified: '2015-12-22T12:32:15.934Z'
+title: Home
 author: []
 sourcePath: _posts/2015-12-21-business-consulting-services-and-software-product-development.md
 published: true
@@ -18,12 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: business-consulting-services-and-software-product-development/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bd81504-355e-4e20-9165-0e1b16574810.jpg)
-
-# [BUSINESS CONSULTING SERVICES & SOFTWARE PRODUCT DEVELOPMENT PARTNER][0]
-
-[0]: null
+DAS GLOBAL - A BUSINESS CONSULTING & SOFTWARE PRODUCT DEVELOPMENT PARTNER.
