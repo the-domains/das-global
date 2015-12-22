@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What do we do?
-datePublished: '2015-12-22T12:40:46.589Z'
-dateModified: '2015-12-22T12:40:31.678Z'
+datePublished: '2015-12-22T12:45:36.714Z'
+dateModified: '2015-12-22T12:44:43.167Z'
 title: Our Services
 author: []
 sourcePath: _posts/2015-12-22-our-services.md
@@ -24,6 +24,10 @@ _type: Article
 ---
 WHAT WE DO?
 
+Our Services Focusing Industries, Technologies and COE's.
+
+##### ****
+
 ##### **INDUSTRIES**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/408fd1545df3621ca458f6bd8877bc9416e81917.png)
 
@@ -34,6 +38,8 @@ WHAT WE DO?
 * Tourism 
 * Aviation 
 * E-Learning
+
+##### ****
 
 ##### **Center-Of-Excellence**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf8d2ae-096b-4ac7-b371-e9d7daaebbdb.jpg)
@@ -50,6 +56,8 @@ WHAT WE DO?
 * IoT 
 * Business Intelligence
 * Mobile Application
+
+##### ****
 
 ##### **TECHNOLOGIES**
 
