@@ -4,21 +4,14 @@
         <description><![CDATA[DAS GLOBAL]]></description>
         <link>http://das-global.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 13:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 23:39:49 GMT</lastBuildDate>
         <atom:link href="http://das-global.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[DAS GLOBAL - A BUSINESS CONSULTING & SOFTWARE PRODUCT DEVELOPMENT PARTNER. ]]></title>
-            <description><![CDATA[<article><h1>DAS GLOBAL - A BUSINESS CONSULTING & SOFTWARE PRODUCT DEVELOPMENT PARTNER. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe9ef8905c8dc158017db938039f3899b0901fc5.jpg"></article>]]></description>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>DAS GLOBAL - A BUSINESS CONSULTING & SOFTWARE PRODUCT DEVELOPMENT PARTNER. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe9ef8905c8dc158017db938039f3899b0901fc5.jpg"></article>]]></description>
             <link>http://das-global.com/home/index.html</link>
             <guid isPermaLink="false">2dded0fb-0e7b-4ff7-9e78-096b252710f4</guid>
-            <pubDate>Tue, 22 Dec 2015 12:53:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[INDUSTRIES]]></title>
-            <description><![CDATA[<article><h1>INDUSTRIES</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e761e24a3ca119c8cae9c0d46ca5f11ab6976f8.png"></article>]]></description>
-            <link>http://das-global.com/our-services/index.html</link>
-            <guid isPermaLink="false">cd80cd92-57c9-4a6a-a479-f966823df1eb</guid>
-            <pubDate>Tue, 22 Dec 2015 13:02:53 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 13:03:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
