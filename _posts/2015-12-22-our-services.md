@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: What do we do?
-datePublished: '2015-12-22T12:29:46.196Z'
-dateModified: '2015-12-22T10:02:09.446Z'
+datePublished: '2015-12-22T12:34:45.329Z'
+dateModified: '2015-12-22T12:32:55.281Z'
 title: Our Services
 author: []
 sourcePath: _posts/2015-12-22-our-services.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-services/index.html
-_type: WebPage
+_type: Article
 
 ---
 WHAT WE DO?
