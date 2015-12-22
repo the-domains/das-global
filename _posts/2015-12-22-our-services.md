@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: What do we do?
-datePublished: '2015-12-22T12:53:16.276Z'
-dateModified: '2015-12-22T12:52:35.318Z'
-title: WHAT WE DO?
+description: ''
+datePublished: '2015-12-22T13:02:53.982Z'
+dateModified: '2015-12-22T13:02:49.097Z'
+title: INDUSTRIES
 author: []
 sourcePath: _posts/2015-12-22-our-services.md
 published: true
@@ -22,7 +22,7 @@ url: our-services/index.html
 _type: Article
 
 ---
-# WHAT WE DO?
+WHAT WE DO?
 
 Our Services Focusing Industries, Technologies and COE's.
 
