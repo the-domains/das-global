@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: What do we do?
-datePublished: '2015-12-22T12:45:36.714Z'
-dateModified: '2015-12-22T12:44:43.167Z'
-title: Our Services
+datePublished: '2015-12-22T12:53:16.276Z'
+dateModified: '2015-12-22T12:52:35.318Z'
+title: WHAT WE DO?
 author: []
 sourcePath: _posts/2015-12-22-our-services.md
 published: true
@@ -22,13 +22,13 @@ url: our-services/index.html
 _type: Article
 
 ---
-WHAT WE DO?
+# WHAT WE DO?
 
 Our Services Focusing Industries, Technologies and COE's.
 
 ##### ****
 
-##### **INDUSTRIES**
+# **INDUSTRIES**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/408fd1545df3621ca458f6bd8877bc9416e81917.png)
 
 * Healthcare 
@@ -41,7 +41,7 @@ Our Services Focusing Industries, Technologies and COE's.
 
 ##### ****
 
-##### **Center-Of-Excellence**
+# **Center-Of-Excellence**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf8d2ae-096b-4ac7-b371-e9d7daaebbdb.jpg)
 
 * EMR/EHR 
@@ -59,7 +59,7 @@ Our Services Focusing Industries, Technologies and COE's.
 
 ##### ****
 
-##### **TECHNOLOGIES**
+# **TECHNOLOGIES**
 
 ##### ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f83c151-8a53-4deb-8af6-c8d2bdda92bf.png)
 
