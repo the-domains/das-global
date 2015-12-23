@@ -4,11 +4,18 @@
         <description><![CDATA[DAS GLOBAL]]></description>
         <link>http://das-global.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 23:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 00:00:26 GMT</lastBuildDate>
         <atom:link href="http://das-global.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Services - Industries]]></title>
+            <description><![CDATA[<article><h1>Services - Industries</h1><p>Our Services in various Industries & Business Sectors</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c9500078faa0718582aabfebb6a85a5eb025c47.png"></article>]]></description>
+            <link>http://das-global.com/services-industries/index.html</link>
+            <guid isPermaLink="false">991a0bed-49a4-4580-abf1-1ffc6daa3477</guid>
+            <pubDate>Wed, 23 Dec 2015 00:00:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>DAS GLOBAL - A BUSINESS CONSULTING & SOFTWARE PRODUCT DEVELOPMENT PARTNER. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe9ef8905c8dc158017db938039f3899b0901fc5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Home</h1><p>DAS GLOBAL - A BUSINESS CONSULTING & SOFTWARE PRODUCT DEVELOPMENT PARTNER. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a5b886dca6f06848a19dc8d576852a93d19c8fe.jpg"></article>]]></description>
             <link>http://das-global.com/home/index.html</link>
             <guid isPermaLink="false">2dded0fb-0e7b-4ff7-9e78-096b252710f4</guid>
             <pubDate>Tue, 22 Dec 2015 23:47:00 GMT</pubDate>
