@@ -1,36 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-23T00:00:16.157Z'
-dateModified: '2015-12-22T23:54:17.688Z'
+description: "Our Services in various Industries & Business Sectors - * Healthcare\_ * Automotive\_ * Banking and Insurance\_ * Manufacturing Transportation\_ * Tourism\_ * Aviation\_ * E-Learning"
+datePublished: '2015-12-23T00:18:44.234Z'
+dateModified: '2015-12-23T00:15:36.137Z'
 title: Services - Industries
 author: []
+sourcePath: _posts/2015-12-23-services-industries.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-services-industries.md
-published: true
-url: services-industries/index.html
-_type: Article
+_type: Blurb
 
 ---
-Our Services in various Industries & Business Sectors
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00da08c2-47d6-4d76-a5f9-a6af8b2f9103.png)
-
-INDUSTRIES
-
-* Healthcare 
-* Automotive 
-* Banking and Insurance 
-* Manufacturing Transportation 
-* Tourism 
-* Aviation 
-* E-Learning
